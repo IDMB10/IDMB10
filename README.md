@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ivan David Martínez Barón  
+# 👋 Hi, I'm Ivan David Martínez Barón
 
-💻 **Electronic Engineer | Software Developer**  
+### 🧑‍💻 Electronic Engineer · Software Developer
 Passionate about building efficient solutions with **Python, C#, NodeJs**, and **cloud applications**.  
-I enjoy learning new technologies, automating processes, and working on real-time systems with **MQTT** and **Websockets**.  
+I enjoy learning new technologies, automating processes, and working on real-time systems, backend and robotics.
 
 ---
 
