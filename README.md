@@ -15,19 +15,21 @@ I enjoy learning new technologies, automating processes, and working on real-tim
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![NodeJs](https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white)  
+**Languages & Frameworks**
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+- ![NodeJs](https://img.shields.io/badge/NodeJs-339933?logo=node.js&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+**Tools & Platforms**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+- ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+
 
 ---
 
