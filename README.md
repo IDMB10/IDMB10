@@ -58,8 +58,6 @@ I enjoy learning new technologies, automating processes, and working on real-tim
 
 ## 📫 Let's Connect
 
-## 📫 Let's Connect
-
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/IDMB10)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-david-martinez-baron-84a569157/)
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivandavid.martinez10@gmail.com)
