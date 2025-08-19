@@ -58,17 +58,17 @@ I enjoy learning new technologies, automating processes, and working on real-tim
 
 ## 📫 Let's Connect
 
-<a href="https://github.com/IDMB10">
-  <img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ivan-david-martinez-baron-84a569157/">
-  <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:ivandavid.martinez10@gmail.com">
-  <img alt="Email" height="28" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-</a>
+<p align="left">
+  <a href="https://github.com/IDMB10" style="text-decoration:none;">
+    <img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-david-martinez-baron-84a569157/" style="text-decoration:none;">
+    <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ivandavid.martinez10@gmail.com" style="text-decoration:none;">
+    <img alt="Email" height="28" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
