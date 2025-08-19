@@ -38,21 +38,29 @@ I enjoy learning new technologies, automating processes, and working on real-tim
 ---
 
 ## 💼 Experience
-- **Software Engineer in Robotics** – Unlimited Robotics  
+
+- **Software Engineer in Robotics** – Unlimited Robotics (2024–2025)  
   🦾 Led QA testing for robotic systems & built tools for **Docker, CI/CD, and AWS AppRunner**.  
 
-- **Software Developer** – Proyectos y Diseños SAS  
-  🏗️ Developed **desktop apps, Revit plugins, Excel/Outlook add-ins**, and managed IT infrastructure.  
+- **Software Developer** – Proyectos y Diseños SAS (2018–2022)  
+  🛠️ Developed **desktop apps, Revit plugins, Excel/Outlook add-ins**, and managed IT infrastructure.  
 
-- **Freelance Developer**  
+- **Freelance Developer** (2022–2024)  
   🛒 Created **WinForms desktop apps** for business inventory and sales management.  
+
+- **Operations Supervisor** – Paynet SAS (2016–2017)  
+  📊 Supervised support desk for **Paynet web apps**, performed database updates, and client communication.  
+
+- **Class A Monitor (Control & Instrumentation)** – UPTC (2015)  
+  🎓 Assisted in lab practices and provided tutoring in instrumentation and control systems.
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 [GitHub](https://github.com/IDMB10)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivan-david-martinez-baron-84a569157/)  
-- ✉️ [Email](mailto:ivandavid.martinez10@gmail.com)  
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) [GitHub](https://github.com/IDMB10)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/ivan-david-martinez-baron-84a569157/)
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [Email](mailto:ivandavid.martinez10@gmail.com)
 
 ---
 
